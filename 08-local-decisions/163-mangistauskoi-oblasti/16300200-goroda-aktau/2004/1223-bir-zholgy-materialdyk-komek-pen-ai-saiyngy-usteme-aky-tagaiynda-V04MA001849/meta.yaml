@@ -18,7 +18,10 @@ versions:
 - date: 2005-03-24
   languages:
   - kaz
+- date: 2005-04-18
+  languages:
+  - kaz
 version_date:
-  kaz: 2005-03-24
+  kaz: 2005-04-18
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/22911/kaz/24.03.2005
+  kaz: https://zan.gov.kz/client/#!/doc/22911/kaz/18.04.2005
