@@ -16,9 +16,27 @@ versions:
   languages:
   - kaz
   - rus
+- date: 2008-07-10
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '41129'
+    key: V08M0002018
+  also_caused_by:
+  - code: '38139'
+    key: V08M0002000
 version_date:
-  kaz: 2007-12-11
-  rus: 2007-12-11
+  kaz: 2008-07-10
+  rus: 2008-07-10
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/36153/kaz/11.12.2007
-  rus: https://zan.gov.kz/client/#!/doc/36153/rus/11.12.2007
+  kaz: https://zan.gov.kz/client/#!/doc/36153/kaz/10.07.2008
+  rus: https://zan.gov.kz/client/#!/doc/36153/rus/10.07.2008
+caused_by:
+  code: '41129'
+  key: V08M0002018
+  requisite: Решение Мангистауского областного маслихата от 10 июля 2008 года № 6/85. Зарегистрировано Департаментом юстиции Мангистауской области 14 июля 2008 года № 2018
+  title:
+    rus: О внесении изменений в решение областного маслихата от 11 декабря 2007 года № 3/24 "Об областном бюджете на 2008 год"
+    kaz: '"2008 жылға арналған облыстық бюджет туралы" облыстық мәслихаттың 2007 жылғы 11 желтоқсандағы № 3/24 шешіміне өзгерістер енгізу туралы'
+  link: https://zan.gov.kz/client/#!/doc/41129/rus
