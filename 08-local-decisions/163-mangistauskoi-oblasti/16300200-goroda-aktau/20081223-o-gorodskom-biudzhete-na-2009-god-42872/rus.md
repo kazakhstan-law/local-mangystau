@@ -1,5 +1,5 @@
 ---
-version_id: AI42872_1
+version_id: AI42872_7
 act_code: '42872'
 language: rus
 title: О городском бюджете на 2009 год
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '163002000002'
 approval_date: 2008-12-23
-version_date: 2008-12-23
+version_date: 2009-07-20
 registry_number: '42872'
-source: https://zan.gov.kz/client/#!/doc/42872/rus/23.12.2008
+caused_by:
+  code: '47262'
+  title: О внесении ихменений в решение городского маслихата от 23 декабря 2008 года № 15/140 "О городском бюджете на 2009 год"
+  link: https://zan.gov.kz/client/#!/doc/47262/rus
+source: https://zan.gov.kz/client/#!/doc/42872/rus/20.07.2009
 ---
 
 # О городском бюджете на 2009 год
