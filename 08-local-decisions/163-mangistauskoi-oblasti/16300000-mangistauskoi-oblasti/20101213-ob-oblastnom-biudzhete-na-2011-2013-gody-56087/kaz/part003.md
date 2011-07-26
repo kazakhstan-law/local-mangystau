@@ -1,21 +1,21 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56087/kaz/06.04.2011
+source: https://zan.gov.kz/client/#!/doc/56087/kaz/26.07.2011
 ---
 
 ## 2013 жылға арналған облыстық бюджет
 
 <table>
 <tr>
-<td>Сан</td>
-<td>Сын</td>
-<td>Кіші сын</td>
-<td>Ерек</td>
-<td>Атауы</td>
-<td>Сомасы, мың теңге</td>
+<th>Сан</th>
+<th>Сын</th>
+<th>Кіші сын</th>
+<th>Ерек</th>
+<th>Атауы</th>
+<th>Сомасы, мың теңге</th>
 </tr>
 <tr>
-<th colspan="4">1</th>
+<th>1</th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -244,15 +244,15 @@ source: https://zan.gov.kz/client/#!/doc/56087/kaz/06.04.2011
 <td>4 033 616</td>
 </tr>
 <tr>
-<td>Ф. топ</td>
-<td>Әкімші</td>
-<td>Бағ</td>
-<td>Кіші бағ</td>
-<td>Атауы</td>
-<td>Сомасы, мың теңге</td>
+<th>Ф. топ</th>
+<th>Әкімші</th>
+<th>Бағ</th>
+<th>Кіші бағ</th>
+<th>Атауы</th>
+<th>Сомасы, мың теңге</th>
 </tr>
 <tr>
-<th colspan="4">1</th>
+<th>1</th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -1425,15 +1425,15 @@ source: https://zan.gov.kz/client/#!/doc/56087/kaz/06.04.2011
 <td>0</td>
 </tr>
 <tr>
-<td>Фтоп</td>
-<td>Әкімші</td>
-<td>Бағ</td>
-<td>Кіші бағ</td>
-<td>Атауы</td>
-<td>Сомасы, мың теңге</td>
+<th>Фтоп</th>
+<th>Әкімші</th>
+<th>Бағ</th>
+<th>Кіші бағ</th>
+<th>Атауы</th>
+<th>Сомасы, мың теңге</th>
 </tr>
 <tr>
-<th colspan="4">1</th>
+<th>1</th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -1446,8 +1446,8 @@ source: https://zan.gov.kz/client/#!/doc/56087/kaz/06.04.2011
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Атауы</td>
-<td>Сомасы, мың теңге</td>
+<th>Атауы</th>
+<th>Сомасы, мың теңге</th>
 </tr>
 <tr>
 <td></td>
