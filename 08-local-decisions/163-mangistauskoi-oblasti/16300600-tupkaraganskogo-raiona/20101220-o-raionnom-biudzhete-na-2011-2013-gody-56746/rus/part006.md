@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56746/rus/11.04.2011
+source: https://zan.gov.kz/client/#!/doc/56746/rus/29.07.2011
 ---
 
 ## Перечень бюджетных программ поселка, аула (села), аульного (сельского) округа на 2011 год
