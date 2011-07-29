@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56355/rus/03.06.2011
+source: https://zan.gov.kz/client/#!/doc/56355/rus/29.07.2011
 ---
 
 ## Перечень бюджетных программ на 2011 год каждого аула (села), аульного (сельского) округа
