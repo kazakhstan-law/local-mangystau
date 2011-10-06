@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/59046/kaz/25.04.2011
+repealed_on: 2011-10-07
+repealed_by:
+  code: '60871'
+  title: Қарақия ауданы бойынша сайлау учаскелерін құру туралы
+  link: https://zan.gov.kz/client/#!/doc/60871/kaz
 ---
 
 # Қарақия ауданы бойынша сайлау учаскелерін құру туралы
