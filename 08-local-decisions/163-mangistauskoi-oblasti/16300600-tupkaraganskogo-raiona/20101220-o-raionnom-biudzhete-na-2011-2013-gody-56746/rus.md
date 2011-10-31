@@ -1,5 +1,5 @@
 ---
-version_id: AI56746_9
+version_id: AI56746_11
 act_code: '56746'
 language: rus
 title: О районном бюджете на 2011-2013 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '163006000002'
 approval_date: 2010-12-20
-version_date: 2011-09-12
+version_date: 2011-10-31
 registry_number: '56746'
 caused_by:
-  code: '60631'
-  title: О внесении изменений и дополнения в решение районного маслихата от 20 декабря 2010 года № 33/198 "О районном бюджете на 2011 - 2013 годы"
-  link: https://zan.gov.kz/client/#!/doc/60631/rus
-source: https://zan.gov.kz/client/#!/doc/56746/rus/12.09.2011
+  code: '61319'
+  title: О внесении изменений в решение районного маслихата от 20 декабря 2010 года № 33/198 "О районном бюджете на 2011-2013 годы"
+  link: https://zan.gov.kz/client/#!/doc/61319/rus
+source: https://zan.gov.kz/client/#!/doc/56746/rus/31.10.2011
 ---
 
 # О районном бюджете на 2011-2013 годы
