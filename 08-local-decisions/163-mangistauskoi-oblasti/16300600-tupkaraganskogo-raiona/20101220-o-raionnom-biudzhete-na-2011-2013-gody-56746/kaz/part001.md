@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56746/kaz/12.09.2011
+source: https://zan.gov.kz/client/#!/doc/56746/kaz/31.10.2011
 ---
 
 ## 2011 жылға арналған аудандық бюджет
