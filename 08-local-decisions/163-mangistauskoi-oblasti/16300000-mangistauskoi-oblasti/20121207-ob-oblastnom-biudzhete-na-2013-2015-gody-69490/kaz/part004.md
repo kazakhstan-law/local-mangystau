@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69490/kaz/27.02.2013
+source: https://zan.gov.kz/client/#!/doc/69490/kaz/02.07.2013
 ---
 
 ## 2015 жылға арналған облыстық бюджет
@@ -1877,7 +1877,10 @@ source: https://zan.gov.kz/client/#!/doc/69490/kaz/27.02.2013
 <tr>
 <th>Сан</th>
 <th>Сын</th>
-<th>ІшкСын</th>
+<th>
+Ішк
+Сын
+</th>
 <th>Ерек</th>
 <th>Атауы</th>
 <th>Сомасы, мың теңге</th>
