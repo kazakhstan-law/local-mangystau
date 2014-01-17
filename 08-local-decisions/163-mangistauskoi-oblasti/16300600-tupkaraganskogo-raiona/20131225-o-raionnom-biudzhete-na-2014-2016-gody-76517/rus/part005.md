@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76517/rus/25.12.2013
+source: https://zan.gov.kz/client/#!/doc/76517/rus/17.01.2014
 ---
 
 ## Перечень бюджетных программ по поселку, селам, сельским округам на 2014 год
