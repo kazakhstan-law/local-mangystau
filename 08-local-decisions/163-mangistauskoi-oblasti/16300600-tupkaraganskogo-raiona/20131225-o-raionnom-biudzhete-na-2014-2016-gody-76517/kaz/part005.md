@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76517/kaz/15.09.2014
+source: https://zan.gov.kz/client/#!/doc/76517/kaz/27.10.2014
 ---
 
 ## 2014 жылға арналған аудандық бюджетте ауылдық округ бойынша бюджеттік бағдарламалар тізбесі
