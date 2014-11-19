@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/76274/rus/05.09.2014
+source: https://zan.gov.kz/client/#!/doc/76274/rus/19.11.2014
 ---
 
 # Об областном бюджете на 2014-2016 годы
