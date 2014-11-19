@@ -1,5 +1,5 @@
 ---
-version_id: AI76274_7
+version_id: AI76274_9
 act_code: '76274'
 language: rus
 title: Об областном бюджете на 2014 - 2016 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '163000000002'
 approval_date: 2013-12-10
-version_date: 2014-09-05
+version_date: 2014-11-19
 registry_number: '76274'
 caused_by:
-  code: '83211'
-  title: О внесении изменений и дополнений в решение областного маслихата от 10 декабря 2013 года № 13/188 "Об областном бюджете на 2014-2016 годы"
-  link: https://zan.gov.kz/client/#!/doc/83211/rus
-source: https://zan.gov.kz/client/#!/doc/76274/rus/05.09.2014
+  code: '84568'
+  title: О внесении изменений в решение областного маслихата от 10 декабря 2013 года № 13/188 "Об областном бюджете на 2014-2016 годы"
+  link: https://zan.gov.kz/client/#!/doc/84568/rus
+source: https://zan.gov.kz/client/#!/doc/76274/rus
 ---
 
 # Об областном бюджете на 2014-2016 годы
