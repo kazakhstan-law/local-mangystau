@@ -1,5 +1,5 @@
 ---
-version_id: AI76323_11
+version_id: AI76323_13
 act_code: '76323'
 language: rus
 title: О городском бюджете на 2014 - 2016 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '163002000002'
 approval_date: 2013-12-12
-version_date: 2014-09-11
+version_date: 2014-11-24
 registry_number: '76323'
 caused_by:
-  code: '83355'
+  code: '84664'
   title: О внесении изменений в решение городского маслихата от 12 декабря 2013 года № 16/152 "О городском бюджете на 2014-2016 годы"
-  link: https://zan.gov.kz/client/#!/doc/83355/rus
-source: https://zan.gov.kz/client/#!/doc/76323/rus/11.09.2014
+  link: https://zan.gov.kz/client/#!/doc/84664/rus
+source: https://zan.gov.kz/client/#!/doc/76323/rus
 ---
 
 # О городском бюджете на 2014-2016 годы

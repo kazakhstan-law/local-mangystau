@@ -1,5 +1,5 @@
 ---
-version_id: AI76323_10
+version_id: AI76323_12
 act_code: '76323'
 language: kaz
 title: 2014 - 2016 жылдарға арналған қалалық бюджет туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '163002000002'
 approval_date: 2013-12-12
-version_date: 2014-09-11
+version_date: 2014-11-24
 registry_number: '76323'
 caused_by:
-  code: '83355'
+  code: '84664'
   title: Қалалық мәслихаттың 2013 жылғы 12 желтоқсандағы № 16/152 "2014-2016 жылдарға арналған қалалық бюджет туралы" шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/83355/kaz
-source: https://zan.gov.kz/client/#!/doc/76323/kaz/11.09.2014
+  link: https://zan.gov.kz/client/#!/doc/84664/kaz
+source: https://zan.gov.kz/client/#!/doc/76323/kaz
 ---
 
 # 2014-2016 жылдарға арналған қалалық бюджет туралы
