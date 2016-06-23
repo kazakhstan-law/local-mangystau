@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/96964/kaz/17.03.2016
+source: https://zan.gov.kz/client/#!/doc/96964/kaz/23.06.2016
 ---
 
 > *Бейнеу аудандық мәслихатының*  
