@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76020/kaz/23.06.2016
+source: https://zan.gov.kz/client/#!/doc/76020/kaz/20.09.2016
 ---
 
 > *Бейнеу ауданында шартты*  
