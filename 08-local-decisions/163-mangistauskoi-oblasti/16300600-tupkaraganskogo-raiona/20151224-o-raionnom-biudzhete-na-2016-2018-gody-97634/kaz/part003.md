@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97634/kaz/21.10.2016
+source: https://zan.gov.kz/client/#!/doc/97634/kaz/14.12.2016
 ---
 
 > *Түпқараған аудандық мәслихатының*  
