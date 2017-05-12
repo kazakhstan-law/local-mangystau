@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/108687/rus/10.03.2017
+source: https://zan.gov.kz/client/#!/doc/108687/rus/12.05.2017
 ---
 
 # О районном бюджете на 2017-2019 годы
