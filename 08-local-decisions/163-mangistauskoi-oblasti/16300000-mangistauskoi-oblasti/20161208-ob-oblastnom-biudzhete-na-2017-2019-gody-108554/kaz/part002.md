@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108554/kaz/03.03.2017
+source: https://zan.gov.kz/client/#!/doc/108554/kaz/04.08.2017
 ---
 
 > *Облыстық мәслихаттың*  
