@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108982/kaz/29.08.2017
+source: https://zan.gov.kz/client/#!/doc/108982/kaz/06.12.2017
 ---
 
 > *Жаңаөзен қалалық мәслихатының 2016 жылғы*  
