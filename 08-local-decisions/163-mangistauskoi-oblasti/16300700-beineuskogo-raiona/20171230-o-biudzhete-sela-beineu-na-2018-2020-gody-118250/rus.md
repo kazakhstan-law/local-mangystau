@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/118250/rus/04.06.2018
+source: https://zan.gov.kz/client/#!/doc/118250/rus/11.12.2018
 ---
 
 # О бюджете села Бейнеу на 2018 - 2020 годы
