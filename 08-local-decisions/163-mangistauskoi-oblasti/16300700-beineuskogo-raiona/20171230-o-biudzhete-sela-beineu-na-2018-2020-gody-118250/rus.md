@@ -1,5 +1,5 @@
 ---
-version_id: '118250_334007'
+version_id: '118250_379780'
 act_code: '118250'
 language: rus
 title: О бюджете села Бейнеу на  2018 - 2020 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '163007000002'
 approval_date: 2017-12-30
-version_date: 2018-06-04
+version_date: 2018-12-11
 registry_number: '118250'
 caused_by:
-  code: '122917'
+  code: '127310'
   title: О внесении изменений в решение районного маслихата от 30 декабря 2017 года № 20/162 «О бюджете села Бейнеу на 2018 - 2020 годы»
-  link: https://zan.gov.kz/client/#!/doc/122917/rus
-source: https://zan.gov.kz/client/#!/doc/118250/rus/04.06.2018
+  link: https://zan.gov.kz/client/#!/doc/127310/rus
+source: https://zan.gov.kz/client/#!/doc/118250/rus
 ---
 
 # О бюджете села Бейнеу на 2018 - 2020 годы
