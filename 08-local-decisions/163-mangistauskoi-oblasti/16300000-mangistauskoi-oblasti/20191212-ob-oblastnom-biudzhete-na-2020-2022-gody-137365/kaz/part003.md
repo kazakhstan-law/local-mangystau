@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137365/kaz/12.12.2019
+source: https://zan.gov.kz/client/#!/doc/137365/kaz/28.02.2020
 ---
 
 > *Маңғыстау облыстық мәслихатының*  
