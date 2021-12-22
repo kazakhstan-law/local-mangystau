@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/152066/kaz/12.11.2021
+source: https://zan.gov.kz/client/#!/doc/152066/kaz/22.12.2021
 ---
 
 > *Қарақия аудандық мәслихатының*  
