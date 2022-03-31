@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/162684/rus/27.12.2021
+source: https://zan.gov.kz/client/#!/doc/162684/rus/31.03.2022
 ---
 
 ## Бюджет города Актау на 2024 год
