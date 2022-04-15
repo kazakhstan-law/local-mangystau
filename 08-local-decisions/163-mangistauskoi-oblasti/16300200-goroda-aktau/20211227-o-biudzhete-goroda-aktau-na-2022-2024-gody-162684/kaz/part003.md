@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/162684/kaz/31.03.2022
+source: https://zan.gov.kz/client/#!/doc/162684/kaz/15.04.2022
 ---
 
 ## 2024 жылға арналған Ақтау қаласының бюджеті
