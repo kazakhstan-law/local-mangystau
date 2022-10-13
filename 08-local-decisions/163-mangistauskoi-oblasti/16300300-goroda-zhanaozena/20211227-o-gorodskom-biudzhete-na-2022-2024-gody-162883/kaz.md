@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/162883/kaz/09.09.2022
+source: https://zan.gov.kz/client/#!/doc/162883/kaz/13.10.2022
 ---
 
 # 2022 – 2024 жылдарға арналған қалалық бюджет туралы
