@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/162883/kaz/13.10.2022
+source: https://zan.gov.kz/client/#!/doc/162883/kaz/28.11.2022
 ---
 
 > *Жаңаөзен қалалық*  
