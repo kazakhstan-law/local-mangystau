@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/177551/kaz/18.05.2023
+source: https://zan.gov.kz/client/#!/doc/177551/kaz/23.10.2023
 ---
 
 > *Мұнайлы аудандық мәслихатының*  
