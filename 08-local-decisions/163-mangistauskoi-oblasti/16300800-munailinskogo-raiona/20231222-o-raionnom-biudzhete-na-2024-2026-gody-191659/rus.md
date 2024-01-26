@@ -1,5 +1,5 @@
 ---
-version_id: '191659_676492'
+version_id: '191659_682843'
 act_code: '191659'
 language: rus
 title: О районном бюджете на 2024 - 2026 годы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '163008000002'
 approval_date: 2023-12-22
-version_date: 2023-12-22
+version_date: 2024-01-26
 registry_number: '191659'
-source: https://zan.gov.kz/client/#!/doc/191659/rus/22.12.2023
+caused_by:
+  code: '193050'
+  title: О внесении изменения в решение Мунайлинского района от 22 декабря 2023 года № 10/62 «О районном бюджете на 2024 - 2026 годы»
+  link: https://zan.gov.kz/client/#!/doc/193050/rus
+source: https://zan.gov.kz/client/#!/doc/191659/rus/26.01.2024
 ---
 
 # О районном бюджете на 2024-2026 годы
