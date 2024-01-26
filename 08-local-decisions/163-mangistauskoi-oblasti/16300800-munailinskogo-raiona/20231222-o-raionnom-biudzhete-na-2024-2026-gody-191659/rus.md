@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/191659/rus/22.12.2023
+source: https://zan.gov.kz/client/#!/doc/191659/rus/26.01.2024
 ---
 
 # О районном бюджете на 2024-2026 годы
