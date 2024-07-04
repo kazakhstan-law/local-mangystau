@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/191659/rus/22.04.2024
+source: https://zan.gov.kz/client/#!/doc/191659/rus/04.07.2024
 ---
 
 > *Приложение 1*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/191659/rus/22.04.2024
 
 ## Районный бюджет на 2024 год
 
-> *Сноска. Приложение 1 в редакции решения Мунайлинского районного маслихата Мангистауской области от 22.04.2024 № 14/85 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 1 в редакции решения Мунайлинского районного маслихата Мангистауской области от 22.04.2024 № 14/85 (вводится в действие с 01.01.2024); от 04.07.2024 № 17/101 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -27,7 +27,9 @@ source: https://zan.gov.kz/client/#!/doc/191659/rus/22.04.2024
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<td colspan="6">1</td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>2</td>
 <td>3</td>
 </tr>
@@ -292,7 +294,7 @@ source: https://zan.gov.kz/client/#!/doc/191659/rus/22.04.2024
 <td colspan="2"></td>
 <td></td>
 <td>2. Затраты</td>
-<td>11 740 999,8</td>
+<td>12 340 999,8</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -300,7 +302,7 @@ source: https://zan.gov.kz/client/#!/doc/191659/rus/22.04.2024
 <td colspan="2"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>1 504 488,0</td>
+<td>2 104 488,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -308,7 +310,7 @@ source: https://zan.gov.kz/client/#!/doc/191659/rus/22.04.2024
 <td colspan="2"></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>306 392,0</td>
+<td>325 782,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -316,7 +318,7 @@ source: https://zan.gov.kz/client/#!/doc/191659/rus/22.04.2024
 <td colspan="2">112</td>
 <td></td>
 <td>Аппарат маслихата района (города областного значения)</td>
-<td>49 037,0</td>
+<td>68 427,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -332,7 +334,7 @@ source: https://zan.gov.kz/client/#!/doc/191659/rus/22.04.2024
 <td colspan="2"></td>
 <td>003</td>
 <td>Капитальные расходы государственного органа</td>
-<td>722,0</td>
+<td>20 112,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -388,7 +390,7 @@ source: https://zan.gov.kz/client/#!/doc/191659/rus/22.04.2024
 <td colspan="2"></td>
 <td></td>
 <td>Прочие государственные услуги общего характера</td>
-<td>1 191 931,0</td>
+<td>1 772 541,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -444,7 +446,7 @@ source: https://zan.gov.kz/client/#!/doc/191659/rus/22.04.2024
 <td colspan="2">459</td>
 <td></td>
 <td>Отдел экономики и финансов района (города областного значения)</td>
-<td>465 822,0</td>
+<td>1 046 432,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -460,7 +462,7 @@ source: https://zan.gov.kz/client/#!/doc/191659/rus/22.04.2024
 <td colspan="2"></td>
 <td>113</td>
 <td>Целевые текущие трансферты нижестоящим бюджетам</td>
-<td>400 175,0</td>
+<td>980 785,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1428,7 +1430,7 @@ source: https://zan.gov.kz/client/#!/doc/191659/rus/22.04.2024
 <td colspan="2"></td>
 <td></td>
 <td>3. Чистое бюджетное кредитование</td>
-<td>171 065,0</td>
+<td>2 141 638,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1436,7 +1438,7 @@ source: https://zan.gov.kz/client/#!/doc/191659/rus/22.04.2024
 <td colspan="2"></td>
 <td></td>
 <td>Бюджетные кредиты</td>
-<td>426 426,0</td>
+<td>2 396 999,8</td>
 </tr>
 <tr>
 <td colspan="2">10</td>
@@ -1469,6 +1471,38 @@ source: https://zan.gov.kz/client/#!/doc/191659/rus/22.04.2024
 <td>018</td>
 <td>Бюджетные кредиты для реализации мер социальной поддержки специалистов</td>
 <td>426 426,0</td>
+</tr>
+<tr>
+<td colspan="2">07</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Жилищно-коммунальное хозяйство</td>
+<td>1 970 573,8</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td>Жилищное хозяйство</td>
+<td>1 970 573,8</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">458</td>
+<td></td>
+<td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
+<td>1 970 573,8</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td>098</td>
+<td>Приобретение жилья коммунального жилищного фонда</td>
+<td>1 970 573,8</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
@@ -1524,7 +1558,7 @@ source: https://zan.gov.kz/client/#!/doc/191659/rus/22.04.2024
 <td colspan="2"></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>- 792 020,2</td>
+<td>- 3 362 594,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1532,7 +1566,7 @@ source: https://zan.gov.kz/client/#!/doc/191659/rus/22.04.2024
 <td colspan="2"></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>792 020,2</td>
+<td>3 362 594,0</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
@@ -1540,7 +1574,7 @@ source: https://zan.gov.kz/client/#!/doc/191659/rus/22.04.2024
 <td colspan="2"></td>
 <td></td>
 <td>Поступление займов</td>
-<td>426 426,0</td>
+<td>2 396 999,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1548,7 +1582,7 @@ source: https://zan.gov.kz/client/#!/doc/191659/rus/22.04.2024
 <td colspan="2">01</td>
 <td></td>
 <td>Внутренние государственные займы</td>
-<td>426 426,0</td>
+<td>2 396 999,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1556,7 +1590,7 @@ source: https://zan.gov.kz/client/#!/doc/191659/rus/22.04.2024
 <td colspan="2"></td>
 <td>2</td>
 <td>Договоры займа</td>
-<td>426 426,0</td>
+<td>2 396 999,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1564,7 +1598,7 @@ source: https://zan.gov.kz/client/#!/doc/191659/rus/22.04.2024
 <td colspan="2"></td>
 <td></td>
 <td>Погашение займов</td>
-<td>255 460,0</td>
+<td>256 232,0</td>
 </tr>
 <tr>
 <td colspan="2">16</td>
@@ -1572,7 +1606,7 @@ source: https://zan.gov.kz/client/#!/doc/191659/rus/22.04.2024
 <td colspan="2"></td>
 <td></td>
 <td>Погашение займов</td>
-<td>255 460,0</td>
+<td>256 232,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1580,7 +1614,7 @@ source: https://zan.gov.kz/client/#!/doc/191659/rus/22.04.2024
 <td colspan="2"></td>
 <td></td>
 <td>Погашение займов</td>
-<td>255 460,0</td>
+<td>256 232,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1588,7 +1622,7 @@ source: https://zan.gov.kz/client/#!/doc/191659/rus/22.04.2024
 <td colspan="2">459</td>
 <td></td>
 <td>Отдел экономики и финансов района (города областного значения)</td>
-<td>255 460,0</td>
+<td>256 232,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1612,7 +1646,7 @@ source: https://zan.gov.kz/client/#!/doc/191659/rus/22.04.2024
 <td colspan="2"></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>621 826,2</td>
+<td>1 221 826,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1620,7 +1654,7 @@ source: https://zan.gov.kz/client/#!/doc/191659/rus/22.04.2024
 <td colspan="2">01</td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>621 826,2</td>
+<td>1 221 826,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1628,7 +1662,7 @@ source: https://zan.gov.kz/client/#!/doc/191659/rus/22.04.2024
 <td colspan="2"></td>
 <td>1</td>
 <td>Свободные остатки бюджетных средств</td>
-<td>621 826,2</td>
+<td>1 221 826,2</td>
 </tr>
 </table>
 
