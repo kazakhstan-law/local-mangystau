@@ -24,17 +24,27 @@ versions:
   cause:
     code: '208491'
     key: G25MD25209M
+- date: 2025-08-13
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '213300'
+    key: G25MD28238M
+  also_caused_by:
+  - code: '213301'
+    key: G25MD28239M
 version_date:
-  kaz: 2025-03-12
-  rus: 2025-03-12
+  kaz: 2025-08-13
+  rus: 2025-08-13
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/205508/kaz/12.03.2025
-  rus: https://zan.gov.kz/client/#!/doc/205508/rus/12.03.2025
+  kaz: https://zan.gov.kz/client/#!/doc/205508/kaz/13.08.2025
+  rus: https://zan.gov.kz/client/#!/doc/205508/rus/13.08.2025
 caused_by:
-  code: '208491'
-  key: G25MD25209M
-  requisite: Решение Каракиянского районного маслихата Мангистауской области от 12 марта 2025 года № 25/209
+  code: '213300'
+  key: G25MD28238M
+  requisite: Решение Каракиянского районного маслихата Мангистауской области от 13 августа 2025 года № 28/238
   title:
     rus: О внесении изменений в решение Каракиянского районного маслихата от 27 декабря 2024 года № 23/195 «О районном бюджете на 2025 - 2027 годы»
     kaz: Қарақия аудандық мәслихатының 2024 жылғы 27 желтоқсандағы № 23/195 «2025 - 2027 жылдарға арналған аудандық бюджет туралы» шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/208491/rus
+  link: https://zan.gov.kz/client/#!/doc/213300/rus
