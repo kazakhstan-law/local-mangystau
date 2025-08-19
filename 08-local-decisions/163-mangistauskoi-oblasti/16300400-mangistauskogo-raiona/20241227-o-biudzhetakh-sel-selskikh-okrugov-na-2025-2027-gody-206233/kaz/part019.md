@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/206233/kaz/17.03.2025
+source: https://zan.gov.kz/client/#!/doc/206233/kaz/19.08.2025
 ---
 
 > *Маңғыстау аудандық мәслихатының*  
