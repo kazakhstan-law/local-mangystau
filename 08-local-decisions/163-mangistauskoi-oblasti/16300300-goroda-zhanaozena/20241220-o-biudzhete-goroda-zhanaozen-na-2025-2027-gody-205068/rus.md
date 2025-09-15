@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/205068/rus/15.08.2025
+source: https://zan.gov.kz/client/#!/doc/205068/rus/15.09.2025
 ---
 
 # О бюджете города Жанаозен на 2025 – 2027 годы

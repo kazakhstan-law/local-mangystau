@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/205068/kaz/15.08.2025
+source: https://zan.gov.kz/client/#!/doc/205068/kaz/15.09.2025
 ---
 
 # 2025 - 2027 жылдарға арналған Жаңаөзен қаласының бюджеті туралы
