@@ -1,0 +1,25 @@
+key: G26MCB0001B
+akn: /akn/kz/act/2026-01-12/G26MCB0001B
+act_code: '221221'
+requisite: Решение акима села Есет Бейнеуского района Мангистауской области от 12 января 2026 года № 1
+title:
+  rus: О присвоение наименований безымянным улицам села Есет
+  kaz: Есет ауылының атауы жоқ көшелеріне атау беру туралы
+form: РЕШ
+type_codes:
+- РЕШ
+approved_on: 2026-01-12
+in_force_from: 2026-01-25
+approved_by:
+- '163007002002'
+versions:
+- date: 2026-01-12
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-01-12
+  rus: 2026-01-12
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/221221/kaz/12.01.2026
+  rus: https://zan.gov.kz/client/#!/doc/221221/rus/12.01.2026
