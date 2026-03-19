@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/220120/kaz/24.02.2026
+source: https://zan.gov.kz/client/#!/doc/220120/kaz/19.03.2026
 ---
 
 > *Ақтау қалалық мәслихатының*  
