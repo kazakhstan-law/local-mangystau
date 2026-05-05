@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/219791/kaz/26.02.2026
+source: https://zan.gov.kz/client/#!/doc/219791/kaz/05.05.2026
 ---
 
 > *Жаңаөзен қалалық мәслихатының*  
